@@ -10,6 +10,12 @@ namespace git_test
     {
         static void Main(string[] args)
         {
+
+            string name;
+
+            Console.WriteLine("whats ur name bruh : ");
+            Console.ReadLine();
+
         }
     }
 }
